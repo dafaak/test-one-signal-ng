@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pwatest-79bbd": {
+      "hosting": {
+        "test-one-signal": [
+          "pwatest-79bbd"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pwatest-79bbd"
+  }
+}
