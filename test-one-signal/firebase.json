@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "test-one-signal",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
